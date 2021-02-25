@@ -1,0 +1,15 @@
+{
+  "name": "zcommerce",
+  "version": "1.0.0",
+  "description": "e-commerce site",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Ricardo Zavala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
